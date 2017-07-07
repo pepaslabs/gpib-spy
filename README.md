@@ -4,7 +4,7 @@ A GPIB pass-through board with connectors for logic analyzers.
 
 # Status
 
-This board is untested.
+This board is untested (waiting for boards to arrive).
 
 # Board design v1
 
